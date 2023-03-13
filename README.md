@@ -2,7 +2,7 @@
 This is a simple weather app created using HTML, CSS and JavaScript. It takes the input location from the user and displays the current weather conditions of that place along with temperature and humidity. Additionally, it also displays an image of the current weather conditions.
 
 # Demo
-You can try out the app here: Live Demo
+You can try out the app here: [Live Demo](https://vikkiroxx.github.io/Weather-App/)
 
 # Features
 Users can input any location and get the current weather conditions.
