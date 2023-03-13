@@ -18,7 +18,7 @@ You can try out the app here: [Live Demo](https://vikkiroxx.github.io/Weather-Ap
 # How to Use
 1. Enter a location in the input field.
 2. Press the Get Weather button.
-3. The app will display the current weather conditions of the entered location along with temperature and humidity.
+3. The app will display the current weather conditions of the entered location along with temperature, humidity and wind speed.
 # Contributing
 Contributions are always welcome! If you'd like to contribute to this project, please fork the repository and create a pull request.
 
