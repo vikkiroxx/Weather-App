@@ -9,9 +9,9 @@ You can try out the app here: [Live Demo](https://vikkiroxx.github.io/Weather-Ap
 - The app displays temperature and humidity of the location.
 - The app also displays an image of the current weather conditions.
 # Technologies Used
-HTML
-CSS
-JavaScript
+- HTML
+- CSS
+- JavaScript
 # Installation
 Clone the repository.
 Open the index.html file in a web browser.
