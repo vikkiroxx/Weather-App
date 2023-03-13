@@ -5,10 +5,10 @@ This is a simple weather app created using HTML, CSS and JavaScript. It takes th
 You can try out the app here: [Live Demo](https://vikkiroxx.github.io/Weather-App/)
 
 # Features
-Users can input any location and get the current weather conditions.
-The app displays temperature and humidity of the location.
-The app also displays an image of the current weather conditions.
-Technologies Used
+- Users can input any location and get the current weather conditions.
+- The app displays temperature and humidity of the location.
+- The app also displays an image of the current weather conditions.
+# Technologies Used
 HTML
 CSS
 JavaScript
