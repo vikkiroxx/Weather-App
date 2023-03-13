@@ -13,12 +13,12 @@ You can try out the app here: [Live Demo](https://vikkiroxx.github.io/Weather-Ap
 - CSS
 - JavaScript
 # Installation
-Clone the repository.
-Open the index.html file in a web browser.
+1. Clone the repository.
+2. Open the index.html file in a web browser.
 # How to Use
-Enter a location in the input field.
-Press the Get Weather button.
-The app will display the current weather conditions of the entered location along with temperature and humidity.
+1. Enter a location in the input field.
+2. Press the Get Weather button.
+3. The app will display the current weather conditions of the entered location along with temperature and humidity.
 # Contributing
 Contributions are always welcome! If you'd like to contribute to this project, please fork the repository and create a pull request.
 
